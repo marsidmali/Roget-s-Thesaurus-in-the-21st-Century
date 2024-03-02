@@ -13,6 +13,13 @@ Dependencies: pandas
 
 
 def clean_term(term, boolean):
+    """
+    Cleans a given term by removing content within brackets and parentheses, and trimming punctuation.
+
+    :param term: The term to clean.
+    :param boolean: A boolean value indicating whether to apply additional cleaning logic.
+    :return: The cleaned term, or an empty string if the term doesn't meet certain criteria.
+    """
     # Remove content in brackets and parentheses and additional punctuation
     term = term.split('[')[0].split('(')[0].strip().rstrip(';')
     # Remove if the term is a number or contains unwanted abbreviations or characters
@@ -22,6 +29,12 @@ def clean_term(term, boolean):
 
 
 def parser(text_lines):
+    """
+    Parses text lines to extract structured information about classes, divisions, sections, and terms.
+
+    :param text_lines: A list of text lines to parse.
+    :return: A pandas DataFrame containing the structured information extracted from the text lines.
+    """
     rows = []
     current_class = ""
     current_division = None

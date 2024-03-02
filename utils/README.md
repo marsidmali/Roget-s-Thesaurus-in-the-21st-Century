@@ -33,7 +33,7 @@ This Python script tackles the challenge of parsing a complex dataset, where tex
 ## Dependencies
 
 - **pandas**: Essential for data manipulation, enabling the transformation of parsed and cleaned data into a DataFrame.
-# Parallelized Embeddings Fetcher Documentation
+# Parallelized Embeddings Fetcher 
 
 ### `parallelized_embeddings_fetcher.py`
 

@@ -4,7 +4,7 @@ In this notebook, we delve into the use of Machine Learning techniques, particul
 ## Key Sections
 
 ### 1. Acquiring Roget's Thesaurus Classification
-We describe the process of obtaining Roget's Thesaurus classification, utilizing Python libraries such as `requests`, `BeautifulSoup`, `json`, and `pandas` for web scraping and data management. For more details, refer to utils README.md.
+We describe the process of obtaining Roget's Thesaurus classification, utilizing Python libraries such as `requests`, `BeautifulSoup`, `json`, and `pandas` for web scraping and data management. For more details, refer to utils [README.md](https://github.com/marsidmali/Roget-s-Thesaurus-in-the-21st-Century/blob/main/utils/README.md).
 
 ### 2. Analysis of Thesaurus Categories
 We conduct an analysis on the distribution of words across Roget's Thesaurus categories, noting significant imbalances and the dominance of certain parts of speech. Our methodology for categorization data storage and processing is aimed at efficiency and accuracy.

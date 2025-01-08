@@ -5,7 +5,7 @@
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=TensorFlow&logoColor=white)](https://tensorflow.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-An investigation into how modern machine learning techniques align with Roget's classical thesaurus categorization system from 1852. This project explores whether contemporary word embeddings can validate or challenge the historical classification principles. 🤖
+An investigation into how modern machine learning techniques align with Roget's classical thesaurus categorization.
 
 ## ✨ Features
 

@@ -1,8 +1,8 @@
 # 📚 Roget's Thesaurus in the 21st Century
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=TensorFlow&logoColor=white)](https://tensorflow.org)
 [![OpenAI](https://img.shields.io/badge/OpenAI-API-green.svg)](https://openai.com/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=TensorFlow&logoColor=white)](https://tensorflow.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 An investigation into how modern machine learning techniques align with Roget's classical thesaurus categorization system from 1852. This project explores whether contemporary word embeddings can validate or challenge the historical classification principles. 🤖

@@ -78,13 +78,6 @@ jupyter notebook
 2. Open `Roget's Thesaurus in the 21st Century.ipynb`
 3. Run all cells to perform the analysis
 
-## ⚙️ Configuration
-
-Create a `.env` file with your OpenAI API key:
-```plaintext
-OPENAI_API_KEY=your_api_key_here
-```
-
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

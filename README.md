@@ -75,7 +75,7 @@ Roget-s-Thesaurus-in-the-21st-Century/
 jupyter notebook
 ```
 
-2. Open `rogets_thesaurus_analysis.ipynb`
+2. Open `Roget's Thesaurus in the 21st Century.ipynb`
 3. Run all cells to perform the analysis
 
 ## ⚙️ Configuration
